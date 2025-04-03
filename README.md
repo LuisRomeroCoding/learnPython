@@ -19,3 +19,7 @@ Pasos para cada entrega.
     5. Cuando estes segura de que todo funciona como deberia y ademas esta bien escrito deberas hacer commit con el comando [git commit -m "Agrega tu mensaje aqui"] El mensaje que agregaras debe indicar que fue lo que hiciste con esta cambio.
     6. Sube tus cambios a Github con el comando [git push origin nombreDeTuRama]
     7. 
+    8. Da click a un boton que dice Compare & pull request y el nombre de tu rama (branch)
+    9. En titulo coloca el nombre de tu Tarea a entregar, agrega una descripcion sencilla y click en Create pull request.
+    10. Espera a que sea revisado y aprovado. Cuando sea aprovado podras dar click a Merge pull request y despues Confirm merge.
+    11. Por ultimo borra tu rama (branch) dando click a Delete branch.
